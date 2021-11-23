@@ -8,6 +8,7 @@
 \usepackage{enumitem} % important
 \usepackage[hidelinks]{hyperref} % hides href
 \usepackage{fontawesome5} % takes icons
+\usepackage{soul} % strikethrough
 \setlength{\footskip}{4.08003pt}
 
 \addtolength{\oddsidemargin}{-0.6in}
