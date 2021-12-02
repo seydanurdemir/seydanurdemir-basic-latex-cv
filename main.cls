@@ -28,12 +28,12 @@
 \newcommand{\resumeTitleEnd}{\vspace{8pt}}
 
 \newcommand{\resumeTitleAltStart}{}
-\newcommand{\resumeTitleAltEnd}{\vspace{5pt}}
+\newcommand{\resumeTitleAltEnd}{\vspace{4pt}}
 
 \newcommand{\resumeSubheading}[4]{\vspace{-2pt}\item\begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}\textbf{#1} & \textbf{\small #2} \\\textit{\small#3} & \textit{\small #4} \\\end{tabular*}\vspace{-7pt}}
 
 \newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in,label={}]}
-\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{4pt}}
 
 \newcommand{\resumeItemListStart}{\begin{itemize}}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-14pt}}
